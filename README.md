@@ -4,3 +4,7 @@ Instructions for A) building the Dockerfile into an image
 
 
 Instructions for B) running the image I built
+
+
+
+Definition of Continuous Integration: 

@@ -1,1 +1,7 @@
-
+mkdir ~/mydockerbuild && cd
+~/mydockerbuild
+touch Dockerfile
+docker pull ubuntu:latest
+FROM ubuntu:latest
+RUN apt-get install -y python3-pip
+COPY 
